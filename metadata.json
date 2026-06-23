@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AutoClicker Pro",
+  "description": "Minimalist automated clicker featuring customizable single/multi-target automation scripts, intervals, swipes, and save profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoClicker Pro</string>
+    <string name="accessibility_service_name">Auto Clicker Automation Service</string>
+    <string name="accessibility_service_description">This accessibility service is used exclusively to inject automated tap and swipe gestures on your screen at custom target points configured by you.</string>
+</resources>
